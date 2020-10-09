@@ -8,6 +8,7 @@ https://www.udacity.com/course/data-analyst-nanodegree--nd002
 Data Analyst Nanodegree Certificate
 
 Projects :
+
 Project ( 1) : Exploring Weather Trends
 
 Project ( 2) : Investigate-A-Dataset
