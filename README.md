@@ -5,7 +5,6 @@ In this Nanodegree Program we're using Python, SQL, and statistics to uncover in
 Nanodegree Link:
 
 https://www.udacity.com/course/data-analyst-nanodegree--nd002
-https://udacity.com/course/data-analyst-nanodegree--nd002
 
 Data Analyst Nanodegree Certificate
 
